@@ -1,0 +1,12 @@
+.proditem{
+    margin: 7px;
+    padding: 5px;
+    border: 2px solid blueviolet;
+    background-color: cornsilk;
+}
+.containerDesc{
+    height: 120px;
+}
+.button{
+    margin-left: 10px;
+}
